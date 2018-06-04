@@ -8,8 +8,7 @@
  * letter to Creative Commons, 171 Second Street, Suite 300,            *
  * San Francisco, California, 94105, USA.                               *
  *----------------------------------------------------------------------*/
-#ifndef Button_h
-#define Button_h
+
 // #if ARDUINO >= 100
 #include <Arduino.h> 
 // #else
@@ -40,4 +39,4 @@ class Button
         uint32_t _lastChange;   //time of last state change
         uint32_t _dbTime;       //debounce time
 };
-#endif
+
