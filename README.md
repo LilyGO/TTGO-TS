@@ -25,4 +25,3 @@ RST 9
 
 ![image](https://github.com/LilyGO/TTGO-TS-V1.2/blob/master/Image/image1.jpg)
 
-![image](https://github.com/LilyGO/TTGO-TS-V1.2/blob/master/Image/image2.jpg)
