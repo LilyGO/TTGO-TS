@@ -1,5 +1,15 @@
-# TTGO-TS-V1.2
-TTGO-TS-V1.0
+## TTGO-TS
+
+### TS V1.4
+
+![image](https://github.com/LilyGO/TTGO-TS-V1.2/blob/master/Image/T10_V1.4.jpg)
+
+### TS V1.2
+
+![image](https://github.com/LilyGO/TTGO-TS-V1.2/blob/master/Image/T10_V1.2.jpg)
+
+
+## TTGO-TS-V1.0
 
 CS  16
 
@@ -11,4 +21,8 @@ SCK 5
 
 RST 9
 
-![image](https://github.com/LilyGO/TTGO-TS-V1.2/blob/master/Image/T10_V1.2.jpg)
+## 3D shell
+
+![image](https://github.com/LilyGO/TTGO-TS-V1.2/blob/master/Image/image1.jpg)
+
+![image](https://github.com/LilyGO/TTGO-TS-V1.2/blob/master/Image/image2.jpg)
